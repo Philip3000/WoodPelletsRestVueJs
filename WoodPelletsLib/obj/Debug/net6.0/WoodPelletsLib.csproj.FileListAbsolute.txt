@@ -1,0 +1,12 @@
+C:\Users\phips\OneDrive\Desktop\Eksamen 3. sem Prog  Tek\Træpiller\WoodPelletsLib\obj\Debug\net6.0\WoodPelletsLib.csproj.AssemblyReference.cache
+C:\Users\phips\OneDrive\Desktop\Eksamen 3. sem Prog  Tek\Træpiller\WoodPelletsLib\obj\Debug\net6.0\WoodPelletsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phips\OneDrive\Desktop\Eksamen 3. sem Prog  Tek\Træpiller\WoodPelletsLib\obj\Debug\net6.0\WoodPelletsLib.AssemblyInfoInputs.cache
+C:\Users\phips\OneDrive\Desktop\Eksamen 3. sem Prog  Tek\Træpiller\WoodPelletsLib\obj\Debug\net6.0\WoodPelletsLib.AssemblyInfo.cs
+C:\Users\phips\OneDrive\Desktop\Eksamen 3. sem Prog  Tek\Træpiller\WoodPelletsLib\obj\Debug\net6.0\WoodPelletsLib.csproj.CoreCompileInputs.cache
+C:\Users\phips\OneDrive\Desktop\Eksamen 3. sem Prog  Tek\Træpiller\WoodPelletsLib\bin\Debug\net6.0\WoodPelletsLib.deps.json
+C:\Users\phips\OneDrive\Desktop\Eksamen 3. sem Prog  Tek\Træpiller\WoodPelletsLib\bin\Debug\net6.0\WoodPelletsLib.dll
+C:\Users\phips\OneDrive\Desktop\Eksamen 3. sem Prog  Tek\Træpiller\WoodPelletsLib\bin\Debug\net6.0\WoodPelletsLib.pdb
+C:\Users\phips\OneDrive\Desktop\Eksamen 3. sem Prog  Tek\Træpiller\WoodPelletsLib\obj\Debug\net6.0\WoodPelletsLib.dll
+C:\Users\phips\OneDrive\Desktop\Eksamen 3. sem Prog  Tek\Træpiller\WoodPelletsLib\obj\Debug\net6.0\refint\WoodPelletsLib.dll
+C:\Users\phips\OneDrive\Desktop\Eksamen 3. sem Prog  Tek\Træpiller\WoodPelletsLib\obj\Debug\net6.0\WoodPelletsLib.pdb
+C:\Users\phips\OneDrive\Desktop\Eksamen 3. sem Prog  Tek\Træpiller\WoodPelletsLib\obj\Debug\net6.0\ref\WoodPelletsLib.dll
